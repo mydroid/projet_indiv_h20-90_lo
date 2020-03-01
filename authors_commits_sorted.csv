@@ -1,0 +1,883 @@
+13197,kohsuke
+5986,Kohsuke Kawaguchi
+3836,jglick
+3673,Jesse Glick
+1277,Daniel Beck
+1249,Oleg Nenashev
+581,Oliver Gondža
+565,Stephen Connolly
+561,olamy
+559,sogabe
+545,mindless
+482,Olivier Lamy
+315,kutzi
+305,Christoph Kutzinski
+293,tfennelly
+254,Baptiste Mathus
+227,Seiji Sogabe
+200,Wadeck Follonier
+187,Josh Soref
+175,Nicolas De Loof
+155,recena
+145,vjuranek
+122,James Nord
+120,imod
+119,Vincent Latombe
+109,Harald Albers
+109,Andrew Bayer
+108,Vojtech Juranek
+106,huybrechts
+104,abayer
+98,stephenconnolly
+94,cactusman
+84,elefevre
+81,Manuel
+78,swiest
+78,Matt Sicker
+77,Jeff Thompson
+74,Manuel Recena
+73,kzantow
+73,Alex
+72,christ66
+70,suren
+66,gusreiber
+66,Kanstantsin Shautsou
+62,OHTAKE Tomohiro
+61,Nicolas De loof
+55,Pavel Janousek
+54,valentina
+54,olivier lamy
+54,Arnaud Héritier
+53,Devin Nusbaum
+51,bagrehc
+51,Valentina Armenise
+51,Ryan Campbell
+51,CloudBees DEV@Cloud
+48,alanharder
+46,teilo
+46,oguzdag
+46,Ing. Pavel Janousek
+44,Jerome Lacoste
+43,albers
+43,Mark Waite
+41,ikedam
+41,amuniz
+41,Fred G
+39,surenpi
+38,dty
+38,Antonio
+37,slide
+37,Will Ross
+37,Alex Earl
+36,lvotypko
+36,Ulli Hafner
+36,Damian Szczepanik
+35,rsandell
+35,Richard Mortimer
+34,redsolo
+34,Stefan Spieker
+34,Robert Sandell
+34,Félix Queiruga
+33,Antonio Muñiz
+32,dwdyer
+32,beta
+31,jieryn
+31,Ramon Leon
+30,Tom Huybrechts
+30,R. Tyler Croy
+30,Felix Belzunce Arcos
+30,Christopher Simons
+26,Raihaan Shouhell
+26,Jesse Farinacci
+25,jbq
+25,Christopher Orr
+24,dvrzalik
+24,Tom Fennelly
+23,manuel_carrasco
+23,StefanSpieker
+22,ssogabe
+22,Sami Tikka
+22,Pei-Tang Huang
+21,M Ramon Leon
+20,Tim Jacomb
+20,David Hoover
+19,rseguy
+19,René Scheibe
+19,Patrick McKeown
+18,Stefan Wolf
+18,Sam Van Oort
+18,André Twupack
+17,liorha
+16,marco
+16,Keith Zantow
+16,Daniel Spilker
+15,varmenise
+15,kuuyee
+15,Steven Post
+15,Craig Rodrigues
+14,mike cirioli
+14,bap2000
+14,Marcin Zajączkowski
+14,Kevin Burke
+14,Bruno Kühnen Meneguello
+13,Olav Reinert
+13,Basil Crow
+12,wyukawa
+12,sorokh
+12,Yoann Dubreuil
+12,StevenGBrown
+12,René Moser
+12,Mirko Friedenhagen
+12,Matt Moore
+12,Allan Burdajewicz
+11,wolfs
+11,mdonohue
+11,Vojtěch Juránek
+11,Tomas
+11,Peter Eisentraut
+11,Nigel Magnay
+11,Michael Clarke
+11,Fernando Boaglio
+11,Erik Molekamp
+11,Emilio Escobar
+11,Andres Rodriguez
+11,Akbashev Alexander
+10,unknown
+10,pgweiss
+10,martinficker
+10,km
+10,Kseniia Nenasheva
+10,Brian Atkinson
+9,jtnord
+9,jpederzolli
+9,charanbir
+9,Michael Koch
+9,Marat Radchenko
+9,Ivan Fernandez Calvo
+9,Dave Brosius
+9,Alvaro Lobato
+8,vsizikov
+8,phoenix384
+8,petehayes
+8,gcummings
+8,drulli
+8,charanb1r
+8,Paul Sandoz
+8,Jon
+8,Giulio D'Ambrosi
+8,Daniel Trebbien
+7,wolfgarnet
+7,shinodkm
+7,redlab
+7,mfriedenhagen
+7,laurence-h
+7,jazzjack
+7,godin
+7,godfath3r
+7,evernat
+7,Thomas de Grenier de Latour
+7,Stephan Pauxberger
+7,Nikolas Falco
+7,Mads Nielsen
+7,John Pederzolli
+7,Francisco Fernández
+7,David Olorundare
+7,Damien Finck
+7,Alexander Akbashev
+6,lucinka
+6,jjasper
+6,bwestrich
+6,andi
+6,Tomas Straupis
+6,Raul Arabaolaza
+6,Peter Marcoen
+6,Peter Darton
+6,Mark Wynn-Mackenzie
+6,Marco Miller
+6,Larry Shatzer, Jr
+6,Kamran Mackey
+6,Ignacio Albors
+6,Fritz Elfert
+6,Egor18
+6,Dominique
+6,Chris Arnott
+6,Andrew Kiellor
+5,sghill
+5,ramapulavarthi
+5,lucamilanesio
+5,laurents59
+5,lacostej
+5,kel
+5,kaxelson
+5,jheymans
+5,hwellmann
+5,Zhao Xiaojie
+5,Zbynek Konecny
+5,Victor
+5,Tim Lantz
+5,Thorsten Scherler
+5,Simon Wiest
+5,Nicolae Pascu
+5,Mustafa Ulu
+5,Monty Taylor
+5,Manuel Blechschmidt
+5,Larry North
+5,Johno Crawford
+5,Johannes Ernst
+5,Gavin Mogan
+5,Francisco Javier Fernandez Gonzalez
+5,Christian Wolfgang
+5,Alex Lehmann
+4,wjprakash
+4,vivek
+4,mode
+4,mdillon
+4,mawinter69
+4,masanobuimai
+4,lifeless
+4,jacob_robertson
+4,frizbog
+4,brucechapman
+4,austry
+4,anafke
+4,Waldyr
+4,Steve Arch
+4,Pedro Rodriguez
+4,Olivier Dagenais
+4,Olaf Lenz
+4,Michael Prankl
+4,Michael Pailloncy
+4,Martijn Baay
+4,Manolo Carrasco
+4,Kevin Connor
+4,Joseph
+4,Joris de Vries
+4,Jochen Fürbacher
+4,Gentle Yang
+4,Erik Ramfelt
+4,Donny Nadolny
+4,Dean Yu
+4,David Rutqvist
+4,Artem V. Navrotskiy
+4,Antonio Muniz
+4,Alexander Shopov
+4,Albert So
+3,stephlag
+3,sfarbota
+3,rysteboe
+3,rtyler
+3,qxo
+3,mleinart
+3,mcrooney
+3,lshatzer
+3,limin wang
+3,liketic
+3,joyyc
+3,ikikko
+3,hayderimran7
+3,draco2k8
+3,ddavison
+3,ctapobep
+3,cesarsotovalero
+3,based2
+3,atcarmo
+3,ashlux
+3,appr
+3,Vivek Pandey
+3,Viktor Suprun
+3,Tommy Sparber
+3,Tim Pizey
+3,Thomas Van Doren
+3,Ted
+3,Sylvestre Ledru
+3,Stephan Reiter
+3,Shawn McCarthy
+3,Sam Gleske
+3,Rebecca Ysteboe
+3,Raphael Pionke
+3,Peter Major
+3,Peter Liljenberg
+3,Paul Kilgo
+3,Olivier Truong
+3,Oli Dagenais
+3,Mykola Nikishov
+3,Mit Naria
+3,Matt Legrand
+3,Martin Nowak
+3,Marc Guenther
+3,Long Ngn
+3,Kyle Allan
+3,Ksenia Nenasheva
+3,Kevin Sawicki
+3,Josiah Haswell
+3,Joel Johnson
+3,Jens Brejner
+3,Ingo Richter
+3,Ilya
+3,Grogdunn
+3,Greg Temchenko
+3,Erwan de FERRIERES
+3,Emanuele Zattin
+3,Egor Bredikhin
+3,Craig Ringer
+3,Cliffano Subagio
+3,Chris Cosby
+3,Andrey Myatlyuk
+3,Andrew Mann
+3,Andrew Erickson
+3,Andrea Scarpino
+3,Aleksas
+3,Abhyudaya Sharma
+3,A. Jard
+2,Łukasz Jąder
+2,xlv
+2,willemv
+2,vlatombe
+2,vb-linetco
+2,urkon
+2,tblack
+2,t-hall
+2,szczechp
+2,samngms
+2,runzexia
+2,rudolfwalter
+2,rednuht
+2,rbair
+2,quinox
+2,puug
+2,olivierlemasle
+2,muhammedeminakbulut
+2,mc1arke
+2,lpancescu
+2,kiy0taka
+2,kbertelson
+2,jesse-houghton
+2,jasonchaffee
+2,ialbors
+2,hunkim
+2,ge-vi
+2,fujibee
+2,fbonerandi
+2,dwightguth
+2,dwelden
+2,dlemos
+2,dbroady1
+2,contextshuffling
+2,cjo9900
+2,chris.arnott@softwire.com
+2,bruyeron
+2,bpedersen2
+2,baptiste
+2,bale836
+2,aviadatsnyk
+2,andrealaura
+2,alexkoon
+2,aHenryJard
+2,Wil Moore III
+2,ValHaris
+2,Toomas Romer
+2,Tomer Cohen
+2,Tim Lander
+2,ThomasPerkins1123
+2,Thomas Suckow
+2,Thiago Zanetti
+2,Steven Christou
+2,Sergiu Dumitriu
+2,Samuel Moritz
+2,Sam Griff
+2,Romén Rodríguez-Gil
+2,Robert Elliot
+2,Reynald Borer
+2,Reinhold Füreder
+2,ReadmeCritic
+2,Raúl Arabaolaza Barquin
+2,Piush
+2,Piotr Wielgolaski
+2,Pavel Cvrcek
+2,Pavel Avgustinov
+2,Paul Weiss
+2,Nisarg Shah
+2,Nguyen Le Vu Long
+2,Nathan Parry
+2,N Nachiappan
+2,Mikko Peltonen
+2,Mike Robinet
+2,Mike Ajala
+2,Michal Srb
+2,Michael Neale
+2,Matthias Vach
+2,Matthew Reiter
+2,Matt Mitchell
+2,Matt Kraai
+2,Martin Schroeder
+2,Markus Winter
+2,Literallie
+2,Liam Newman
+2,Lee Lavery
+2,Laurence
+2,Kevin P. Fleming
+2,Kenichi Maehashi
+2,Kai Inkinen
+2,KOMATSU Seiji
+2,Jørgen P. Tjernø
+2,Jyrki Puttonen
+2,Julien Coste
+2,Julian Schmidt
+2,Joshua Keroes
+2,Joseph Petersen
+2,Jonathan Fuentes
+2,Jonas
+2,Jens Hausherr
+2,Jean-Philippe Briend
+2,Jean-Baptiste Le Duigou
+2,Jan Zuchhold
+2,Ivan Meredith
+2,Ilya Zasimov
+2,Hughes, Wilfred (London)
+2,Hayato ITO
+2,Gili Tzabari
+2,Freddie Vargus
+2,Francisco Ruiz
+2,Félix Belzunce Arcos
+2,Federico Pellegrin
+2,Evaristo Gutiérrez
+2,Esa Laine
+2,Erik Lindblad
+2,Eric Yu
+2,Elbandi
+2,Drew Repasky
+2,David Ruhmann
+2,David M. Carr
+2,Darío Villadiego
+2,Daniel Khodaparast
+2,César Soto Valero
+2,Cyrille Le Clerc
+2,Curt Moore
+2,Costin Caraivan
+2,Ciprian Ciubotariu
+2,Christopher Siden
+2,Christof Schoell
+2,Carlos Sanchez
+2,Carlos Rendon
+2,Carl-Frederik Hallberg
+2,Carl Quinn
+2,Carbenium
+2,Bruno P. Kinoshita
+2,Bruno Meneguello
+2,Brian Moyles
+2,Berno Langer
+2,Bartosz Kaszubowski
+2,Andrew J. Erickson
+2,Anders Kindberg
+2,Anders Hammar
+2,Alessandro Menti
+2,Aleksas Pielikis
+2,Akshay Dayal
+2,Adrien Lecharpentier
+2,Adrian Cole
+2,Adam Wolf
+1,yogeek
+1,xGhOsTkiLLeRx
+1,vojtechhabarta
+1,vincentkok
+1,vglushenkov
+1,tn-osimis
+1,tjramos
+1,tinexw
+1,thomas@katalisindonesia.com
+1,testfixer
+1,tequillaz
+1,tbingaman
+1,tarul
+1,talkdirty
+1,stochmim
+1,stigkj
+1,slavino
+1,silent-snowman
+1,sgargel
+1,segalaj
+1,russellbarnes
+1,ruoxijiang
+1,rocio27jul
+1,peter-kutak
+1,peppelan
+1,pbe-axelor
+1,pamdirac
+1,pagio81
+1,orgi
+1,olivergondza
+1,nmullaney
+1,nlabrot
+1,n8felton
+1,murank
+1,mstarzyk
+1,mspring
+1,mrebasti
+1,michmerr
+1,michael cirioli
+1,mcupak
+1,mcdonan
+1,mathieu-pousse
+1,madhead
+1,lucaspanjer
+1,lqli
+1,lorainsu
+1,liucc52
+1,lgoenner
+1,lecric
+1,laenco
+1,kshultzCB
+1,kphonik
+1,knupouls
+1,kkkon
+1,kdanW
+1,kbrowder
+1,kalecser
+1,justinedelson
+1,jsiirola
+1,joeljohnson
+1,jhm
+1,javadude
+1,j.graumann@web.de
+1,istrangiu
+1,intelradoux
+1,hplatou
+1,gonrial
+1,gmjck
+1,gliptak
+1,fred-o
+1,fma1977
+1,f_cavarretta
+1,ertanden
+1,edwardpro
+1,edh-oss
+1,dodok1
+1,dnadolny
+1,digerata
+1,davidseymore
+1,davidmc24
+1,david_calavera
+1,david_beutel
+1,cynipe
+1,csiden
+1,cleibersilva
+1,chris-daw
+1,chandrodayv
+1,c3johnso
+1,bshine
+1,boev
+1,bill007110
+1,bhenderson
+1,benru
+1,basil3whitehouse
+1,baileys
+1,apetres
+1,anxk
+1,akshayabd
+1,ajpurkiss
+1,aitor alzola
+1,againjj
+1,aabeling
+1,Zdeněk Soukup
+1,Your Name
+1,Youngrok Kim
+1,Yoichi Nakayama
+1,Xi Qi
+1,Wynn Netherland
+1,Wilfred Hughes
+1,Werner Beroux
+1,Wedge Jarrad
+1,Wade Carpenter
+1,Vladimir Kravets
+1,Vitalii Tymchyshyn
+1,Vincent LATOMBE
+1,Victor Ott
+1,Victor Martinez
+1,Veres Lajos
+1,Tristan FAURE
+1,Tom Rini
+1,Tom Payne
+1,Tollef Fog Heen
+1,Thorsten Möllers
+1,Thomas Pilot
+1,Thomas Morse
+1,Thiago Henrique Hüpner
+1,TheLastPossibleUsernameEver
+1,Szymon Biliński
+1,Surya Gaddipati
+1,Stuart McCulloch
+1,Steve Hill
+1,Stephen Ware
+1,Stephen Souness
+1,Stefan Brausch
+1,Spike Washburn
+1,Sorin Sbarnea
+1,Slide
+1,Simon Andrews
+1,Sergey Burkov
+1,Sereinity
+1,Sebastien Guillemot
+1,Sebastian Rakel
+1,Sebastian Rahlf
+1,Sean Sullivan
+1,Scott Hebert
+1,Sathiya Narayanan
+1,Sascha Scholz
+1,Sascha Peilicke
+1,Santiago Castro
+1,Samuel Mehrbrodt
+1,Samuel Langlois
+1,Ryan Maki
+1,Rupin R Nath
+1,Rowan Hill
+1,Ronald Tschalär
+1,Robin Naundorf
+1,Roberto C. Salome
+1,Robert Shade
+1,Robert Rabe
+1,Rob van Oostrum
+1,Rob Petti
+1,Richie Vos
+1,Richard Bywater
+1,Reginaldo Russinholi
+1,Rafa de la Torre
+1,Radosław Antoniuk
+1,Radek Antoniuk
+1,R. Tyler Ballance
+1,Quentin Dufour
+1,Puru Tuladhar
+1,Prayag Verma
+1,Pierre-Louis Bonicoli
+1,Pierre Dal-Pra
+1,Pierre Beitz
+1,Peter Russell
+1,Peter Hayes
+1,Peter Dave Hello
+1,Patrik Boström
+1,PJ Fanning
+1,Otmane TAZI
+1,Oskars Pakers
+1,Olivier Lemasle
+1,Nolan Lawson
+1,Nick Dimiduk
+1,NGK Sternhagen
+1,Muhammed Akbulut
+1,Milan Kyselica
+1,Mikhail Kalkov
+1,Mikel Larreategi
+1,Mike Power
+1,Mike Glazer
+1,Michal Slusarczyk
+1,Michael Strasser
+1,Michael Smith
+1,Michael Prokop
+1,MatthiasSchmalz
+1,Matthias Kraft
+1,Matthew Brener
+1,Matthew Barr
+1,Matt Blair
+1,Martin Schröder
+1,Mark Field
+1,Marius Karnauskas
+1,Marius Gedminas
+1,Marcus Jacobsson
+1,Marcos Bento
+1,MarcoAurelioWM
+1,Marco Wulf
+1,Marc Jansen
+1,Marc Guillemot
+1,Mads Rolsdorph
+1,Lyle Hanson
+1,Luke Robertson
+1,Luke Petre
+1,Lukasz Jader
+1,Lucien Weller
+1,Lucie Votypkova
+1,Logan Gorence
+1,Limin Wang
+1,Leonardo Rossetti
+1,Lars Hvile
+1,Larry Singleton
+1,Kyle Beal
+1,Kyle A. Matheny
+1,Kshithij Iyer
+1,Krzysztof Rakowski
+1,Kristian Rosenvold
+1,Krishan Bhasin
+1,Konstantin Bulanov
+1,Kohei Suzuki
+1,Kevin Formsma
+1,Kenneth Garland
+1,Ken Bertelson
+1,Kazuhiro NISHIYAMA
+1,Karthick Prabu
+1,Kannan Manickam
+1,Kamil Szymański
+1,Kamil Szymanski
+1,Kamil Kisiel
+1,Ka-Wing
+1,Jānis
+1,Justin Santa Barbara
+1,Julien HENRY
+1,Julien Carsique
+1,Jukka Lehtniemi
+1,Joshua Kolash
+1,Josh Gibbs
+1,Jordi Mas
+1,Jonathan A. Sternberg
+1,Jon Brohauge
+1,Johnbo
+1,John McNally
+1,John Lamb
+1,Johan Sigfred Abildskov
+1,Johan Lübcke
+1,Joe Sondow
+1,Jochen A. Fürbacher
+1,Jez Halford
+1,Jennifer Briden
+1,Jenn Briden
+1,Jenkins admin
+1,Jeff Pearce
+1,Jeff MAURY
+1,Jean Blanchard
+1,Janick Reynders
+1,Jan Štourač
+1,Jan Vansteenkiste
+1,James Page
+1,James Martinez
+1,James Byers
+1,Jakub Štiller
+1,Jakub Cechacek
+1,JTSweet
+1,Inetov
+1,Imran Hayder
+1,Idan Bidani
+1,IanKemp
+1,Ian Hopkins
+1,Hubert Woszczyk
+1,Holger Voormann
+1,Hiroshi Saito
+1,Hervé Boutemy
+1,Henrik Ygge
+1,Hendrik Millner
+1,Hans-Joachim Kliemeck
+1,Hangsu Ma
+1,Gustavo de Souza Bezerra
+1,Gustaf Lundh
+1,Gunnar Wrobel
+1,Grégory Coutant
+1,Greg Inozemtsev
+1,Greg Heartsfield
+1,Greg Albrecht
+1,Grace Tang
+1,Glöckle Bastian
+1,George Shakhnazaryan
+1,George Gastaldi
+1,Galo Navarro
+1,Gabriel Lavoie
+1,Gabriel Belingueres
+1,GRILLON Stéphane
+1,GLundh
+1,Frolov Dmitry
+1,Francois-D
+1,Francisco Capdevila
+1,Flavio Costa
+1,Filipe Roque
+1,FLOCHLAY Sebastien
+1,Evgeny Mandrikov
+1,Eugene Baranov
+1,Eric Weikl
+1,Eric Dalquist
+1,Emmanuel Bourg
+1,Eito Katagiri
+1,Edmund Wong
+1,Ed Bartosh
+1,Dustin R. Welden
+1,Durgadas Kamath
+1,Doug Alcouffe
+1,Dominik Bartholdi
+1,Dominic Mitchell
+1,Dmitri Karpovich
+1,Dirk Thomas
+1,Dirk Pahl
+1,Dimitri BAELI
+1,Dillon Amburgey
+1,Denis Shvedchenko
+1,David Strauss
+1,David Reiss
+1,David McFarland
+1,David Alberto
+1,Dave Hunt
+1,Darryl Pogue
+1,Daniel Weber
+1,Daniel Olausson
+1,Daniel Lorch
+1,Daniel Hahler
+1,Damien Nozay
+1,Dalibor Plavcic
+1,DJ Lee
+1,Craig P. Motlin
+1,Cliff Maury
+1,Claudiu Guiman
+1,Christoph Thelen
+1,Christoffer Sawicki
+1,Carlos Tadeu Panato Junior
+1,CJ Barker
+1,Bráulio Bezerra
+1,Bryson Gibbons
+1,Bruno Perel
+1,Brian Lalor
+1,Brendan Nolan
+1,Brad Trimby
+1,Boris
+1,Bogdan Sukonnov
+1,Bob Maertz
+1,Bjoern Kasteleiner
+1,Bernie Schelberg
+1,Bernhard Grünewaldt
+1,Bernard Leach
+1,Benjamin Herbert
+1,Benjamin Cabé
+1,Ben Walding
+1,Ben Parees
+1,Ben McCann
+1,Ben Lau
+1,Ben Gamari
+1,Baptiste Mille-Mathias
+1,Aurelie Salles
+1,Arnaud TAMAILLON
+1,Arnaud Heritier
+1,Ariel Peltz
+1,Ari Hyttinen
+1,Arcadiy Ivanov
+1,Anish Dangi
+1,Andy Neebel
+1,Andrius Štikonas
+1,Andreyev Dias de Melo
+1,Andrey Klochkov
+1,Andrey Grigorov
+1,Andrew Stucki
+1,Andrew Stone
+1,Andrew Melo
+1,Andrew Bradley
+1,Andre Miranda
+1,Andi Pabst
+1,Amaury
+1,Alon Bar-Lev
+1,Alfonso Cora
+1,Alexey
+1,Alexandre Vanhecke
+1,Alexandre Garnier
+1,Alexander Link
+1,Alex Taylor
+1,Alex Rovner
+1,Alex Bertram
+1,Aleksandar Đuričin
+1,Alberto Gragera
+1,Aitor Alzola
+1,Adrien Gallou
+1,Aaron Zurawski
+1,Aakash R Kanvinde
+1,ADSL
+1,97gushan
+0,唐�
