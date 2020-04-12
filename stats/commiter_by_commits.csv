@@ -12,9 +12,9 @@
 3,Aleksas
 2,Aleksas Pielikis
 2,Alessandro Menti
-73,Alex
+74,Alex
 1,Alex Bertram
-37,Alex Earl
+38,Alex Earl
 5,Alex Lehmann
 7,Alexander Akbashev
 4,Alexander Shopov
@@ -28,7 +28,7 @@
 2,Anders Hammar
 2,Anders Kindberg
 1,Andre Miranda
-3,Andrea Scarpino
+4,Andrea Scarpino
 11,Andres Rodriguez
 109,Andrew Bayer
 3,Andrew Erickson
@@ -42,7 +42,7 @@
 1,Andrius Štikonas
 18,André Twupack
 1,Anish Dangi
-38,Antonio
+39,Antonio
 33,Antonio Muñiz
 1,Arcadiy Ivanov
 1,Ari Hyttinen
@@ -52,7 +52,7 @@
 4,Artem V. Navrotskiy
 1,Aurelie Salles
 0,Aviad Reich
-254,Baptiste Mathus
+256,Baptiste Mathus
 1,Baptiste Mille-Mathias
 2,Bartosz Kaszubowski
 13,Basil Crow
@@ -92,7 +92,7 @@
 36,Damian Szczepanik
 7,Damien Finck
 1,Damien Nozay
-1277,Daniel Beck
+1346,Daniel Beck
 2,Daniel Khodaparast
 16,Daniel Spilker
 8,Daniel Trebbien
@@ -121,7 +121,7 @@
 1,Edmund Wong
 6,Egor18
 1,Eito Katagiri
-11,Emilio Escobar
+12,Emilio Escobar
 1,Emmanuel Bourg
 1,Eric Weikl
 2,Eric Yu
@@ -130,6 +130,7 @@
 4,Erik Ramfelt
 3,Erwan de FERRIERES
 2,Esa Laine
+2,Esther Alvarez Feijoo
 1,Eugene Baranov
 2,Evaristo Gutiérrez
 1,Evgeny Mandrikov
@@ -146,7 +147,7 @@
 2,Freddie Vargus
 6,Fritz Elfert
 1,Frolov Dmitry
-34,Félix Queiruga
+47,Félix Queiruga
 1,GLundh
 1,Gabriel Lavoie
 1,Galo Navarro
@@ -186,23 +187,23 @@
 1,Jakub Štiller
 1,James Byers
 1,James Martinez
-122,James Nord
+138,James Nord
 1,James Page
 1,Jan Vansteenkiste
 1,Jan Štourač
 1,Janick Reynders
 1,Jean Blanchard
-2,Jean-Baptiste Le Duigou
+3,Jean-Baptiste Le Duigou
 2,Jean-Philippe Briend
 1,Jeff MAURY
-77,Jeff Thompson
+152,Jeff Thompson
 1,Jenkins admin
 1,Jenn Briden
 3,Jens Brejner
 2,Jens Hausherr
 44,Jerome Lacoste
 26,Jesse Farinacci
-3673,Jesse Glick
+3680,Jesse Glick
 1,Jez Halford
 4,Jochen Fürbacher
 3,Joel Johnson
@@ -210,11 +211,11 @@
 7,John Pederzolli
 1,Johnbo
 5,Johno Crawford
-2,Jonas
+3,Jonas
 1,Jonathan A. Sternberg
 1,Jordi Mas
 4,Joris de Vries
-187,Josh Soref
+196,Josh Soref
 2,Joshua Keroes
 1,Joshua Kolash
 2,Julian Schmidt
@@ -240,9 +241,10 @@
 2,Kevin P. Fleming
 3,Kevin Sawicki
 1,Kohei Suzuki
-5986,Kohsuke Kawaguchi
+6012,Kohsuke Kawaguchi
 1,Konstantin Bulanov
 1,Kristian Rosenvold
+1,Krzysztof Knapik
 1,Krzysztof Rakowski
 3,Ksenia Nenasheva
 1,Kyle A. Matheny
@@ -271,16 +273,16 @@
 1,Marcos Bento
 1,Marius Gedminas
 1,Marius Karnauskas
-43,Mark Waite
+48,Mark Waite
 6,Mark Wynn-Mackenzie
-2,Markus Winter
+3,Markus Winter
 4,Martijn Baay
 3,Martin Nowak
 2,Martin Schroeder
 2,Matt Kraai
 3,Matt Legrand
 12,Matt Moore
-78,Matt Sicker
+79,Matt Sicker
 1,Matthew Barr
 2,Matthias Vach
 11,Michael Clarke
@@ -302,6 +304,7 @@
 3,Mykola Nikishov
 2,N Nachiappan
 1,NGK Sternhagen
+1,NextTurn
 2,Nguyen Le Vu Long
 1,Nick Dimiduk
 5,Nicolae Pascu
@@ -311,9 +314,9 @@
 7,Nikolas Falco
 62,OHTAKE Tomohiro
 13,Olav Reinert
-1249,Oleg Nenashev
+1271,Oleg Nenashev
 3,Oli Dagenais
-581,Oliver Gondža
+589,Oliver Gondža
 4,Olivier Dagenais
 482,Olivier Lamy
 1,Olivier Lemasle
@@ -343,8 +346,8 @@
 30,R. Tyler Croy
 1,Radek Antoniuk
 1,Radosław Antoniuk
-26,Raihaan Shouhell
-31,Ramon Leon
+29,Raihaan Shouhell
+34,Ramon Leon
 6,Raul Arabaolaza
 2,ReadmeCritic
 1,Reginaldo Russinholi
@@ -358,6 +361,7 @@
 1,Robert Shade
 1,Roberto C. Salome
 1,Robin Naundorf
+16,Romén Rodríguez-Gil
 1,Ronald Tschalär
 1,Rowan Hill
 51,Ryan Campbell
@@ -377,6 +381,7 @@
 3,Shawn McCarthy
 1,Simon Andrews
 5,Simon Wiest
+1,Sladyn Nunes
 1,Spike Washburn
 34,Stefan Spieker
 18,Stefan Wolf
@@ -398,7 +403,7 @@
 3,Thomas Van Doren
 7,Thomas de Grenier de Latour
 5,Thorsten Scherler
-20,Tim Jacomb
+68,Tim Jacomb
 5,Tim Lantz
 3,Tim Pizey
 1,Tollef Fog Heen
@@ -411,17 +416,18 @@
 2,Toomas Romer
 36,Ulli Hafner
 51,Valentina Armenise
+1,Vento
 1,Veres Lajos
 1,Victor Ott
 3,Viktor Suprun
 1,Vincent LATOMBE
-119,Vincent Latombe
+122,Vincent Latombe
 3,Vivek Pandey
 1,Vladimir Kravets
 108,Vojtech Juranek
 11,Vojtěch Juránek
 1,Wade Carpenter
-200,Wadeck Follonier
+205,Wadeck Follonier
 4,Waldyr
 1,Wedge Jarrad
 1,Werner Beroux
@@ -443,7 +449,7 @@
 48,alanharder
 43,albers
 2,alexkoon
-41,amuniz
+42,amuniz
 4,anafke
 6,andi
 3,appr
@@ -513,14 +519,14 @@
 7,jazzjack
 25,jbq
 6,jesse
-3836,jglick
+3843,jglick
 5,jheymans
 1,jhm
 31,jieryn
 6,jjasper
 3,joyyc
 9,jpederzolli
-9,jtnord
+12,jtnord
 1,kalecser
 5,kaxelson
 2,kbertelson
@@ -528,7 +534,7 @@
 1,kkkon
 10,km
 1,knupouls
-13197,kohsuke
+13223,kohsuke
 1,kphonik
 1,kshultzCB
 315,kutzi
@@ -604,7 +610,7 @@
 3,sfarbota
 5,sghill
 7,shinodkm
-37,slide
+38,slide
 559,sogabe
 12,sorokh
 22,ssogabe
@@ -641,3 +647,4 @@
 12,wyukawa
 1,xGhOsTkiLLeRx
 2,xlv
+9,zbynek

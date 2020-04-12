@@ -1,10 +1,10 @@
-13197,kohsuke
-5986,Kohsuke Kawaguchi
-3836,jglick
-3673,Jesse Glick
-1277,Daniel Beck
-1249,Oleg Nenashev
-581,Oliver Gondža
+13223,kohsuke
+6012,Kohsuke Kawaguchi
+3843,jglick
+3680,Jesse Glick
+1346,Daniel Beck
+1271,Oleg Nenashev
+589,Oliver Gondža
 565,Stephen Connolly
 561,olamy
 559,sogabe
@@ -13,16 +13,17 @@
 315,kutzi
 305,Christoph Kutzinski
 293,tfennelly
-254,Baptiste Mathus
+256,Baptiste Mathus
 227,Seiji Sogabe
-200,Wadeck Follonier
-187,Josh Soref
+205,Wadeck Follonier
+196,Josh Soref
 175,Nicolas De Loof
 155,recena
+152,Jeff Thompson
 145,vjuranek
-122,James Nord
+138,James Nord
+122,Vincent Latombe
 120,imod
-119,Vincent Latombe
 109,Harald Albers
 109,Andrew Bayer
 108,Vojtech Juranek
@@ -32,14 +33,14 @@
 94,cactusman
 84,elefevre
 81,Manuel
+79,Matt Sicker
 78,swiest
-78,Matt Sicker
-77,Jeff Thompson
 74,Manuel Recena
+74,Alex
 73,kzantow
-73,Alex
 72,christ66
 70,suren
+68,Tim Jacomb
 66,gusreiber
 66,Kanstantsin Shautsou
 62,OHTAKE Tomohiro
@@ -54,21 +55,22 @@
 51,Ryan Campbell
 51,CloudBees DEV@Cloud
 48,alanharder
+48,Mark Waite
+47,Félix Queiruga
 46,teilo
 46,oguzdag
 46,Ing. Pavel Janousek
 44,Jerome Lacoste
 43,albers
-43,Mark Waite
+42,amuniz
 41,ikedam
-41,amuniz
 41,Fred G
 39,surenpi
+39,Antonio
+38,slide
 38,dty
-38,Antonio
-37,slide
+38,Alex Earl
 37,Will Ross
-37,Alex Earl
 36,lvotypko
 36,Ulli Hafner
 36,Damian Szczepanik
@@ -77,17 +79,16 @@
 34,redsolo
 34,Stefan Spieker
 34,Robert Sandell
-34,Félix Queiruga
+34,Ramon Leon
 33,Antonio Muñiz
 32,dwdyer
 32,beta
 31,jieryn
-31,Ramon Leon
 30,Tom Huybrechts
 30,R. Tyler Croy
 30,Felix Belzunce Arcos
 30,Christopher Simons
-26,Raihaan Shouhell
+29,Raihaan Shouhell
 26,Jesse Farinacci
 25,jbq
 25,Christopher Orr
@@ -99,7 +100,6 @@
 22,Sami Tikka
 22,Pei-Tang Huang
 21,M Ramon Leon
-20,Tim Jacomb
 20,David Hoover
 19,rseguy
 19,René Scheibe
@@ -109,6 +109,7 @@
 18,André Twupack
 17,liorha
 16,marco
+16,Romén Rodríguez-Gil
 16,Keith Zantow
 16,Daniel Spilker
 15,varmenise
@@ -124,11 +125,13 @@
 13,Basil Crow
 12,wyukawa
 12,sorokh
+12,jtnord
 12,Yoann Dubreuil
 12,StevenGBrown
 12,René Moser
 12,Mirko Friedenhagen
 12,Matt Moore
+12,Emilio Escobar
 12,Allan Burdajewicz
 11,wolfs
 11,mdonohue
@@ -139,7 +142,6 @@
 11,Michael Clarke
 11,Fernando Boaglio
 11,Erik Molekamp
-11,Emilio Escobar
 11,Andres Rodriguez
 11,Akbashev Alexander
 10,unknown
@@ -148,11 +150,12 @@
 10,km
 10,Kseniia Nenasheva
 10,Brian Atkinson
-9,jtnord
+9,zbynek
 9,jpederzolli
 9,charanbir
 9,Michael Koch
 9,Marat Radchenko
+9,Jon
 9,Ivan Fernandez Calvo
 9,Dave Brosius
 9,Alvaro Lobato
@@ -163,7 +166,6 @@
 8,drulli
 8,charanb1r
 8,Paul Sandoz
-8,Jon
 8,Giulio D'Ambrosi
 8,Daniel Trebbien
 7,wolfgarnet
@@ -227,6 +229,7 @@
 5,Gavin Mogan
 5,Francisco Javier Fernandez Gonzalez
 5,Christian Wolfgang
+5,Antonio Muniz
 5,Alex Lehmann
 4,wjprakash
 4,vivek
@@ -259,7 +262,7 @@
 4,Dean Yu
 4,David Rutqvist
 4,Artem V. Navrotskiy
-4,Antonio Muniz
+4,Andrea Scarpino
 4,Alexander Shopov
 4,Albert So
 3,stephlag
@@ -304,14 +307,17 @@
 3,Mit Naria
 3,Matt Legrand
 3,Martin Nowak
+3,Markus Winter
 3,Marc Guenther
 3,Long Ngn
 3,Kyle Allan
 3,Ksenia Nenasheva
 3,Kevin Sawicki
 3,Josiah Haswell
+3,Jonas
 3,Joel Johnson
 3,Jens Brejner
+3,Jean-Baptiste Le Duigou
 3,Ingo Richter
 3,Ilya
 3,Grogdunn
@@ -325,7 +331,6 @@
 3,Andrey Myatlyuk
 3,Andrew Mann
 3,Andrew Erickson
-3,Andrea Scarpino
 3,Aleksas
 3,Abhyudaya Sharma
 3,A. Jard
@@ -381,11 +386,11 @@
 2,ThomasPerkins1123
 2,Thomas Suckow
 2,Thiago Zanetti
+2,Sumit Sarin
 2,Steven Christou
 2,Sergiu Dumitriu
 2,Samuel Moritz
 2,Sam Griff
-2,Romén Rodríguez-Gil
 2,Robert Elliot
 2,Reynald Borer
 2,Reinhold Füreder
@@ -410,7 +415,6 @@
 2,Matt Mitchell
 2,Matt Kraai
 2,Martin Schroeder
-2,Markus Winter
 2,Literallie
 2,Liam Newman
 2,Lee Lavery
@@ -426,10 +430,8 @@
 2,Joshua Keroes
 2,Joseph Petersen
 2,Jonathan Fuentes
-2,Jonas
 2,Jens Hausherr
 2,Jean-Philippe Briend
-2,Jean-Baptiste Le Duigou
 2,Jan Zuchhold
 2,Ivan Meredith
 2,Ilya Zasimov
@@ -441,6 +443,7 @@
 2,Félix Belzunce Arcos
 2,Federico Pellegrin
 2,Evaristo Gutiérrez
+2,Esther Alvarez Feijoo
 2,Esa Laine
 2,Erik Lindblad
 2,Eric Yu
@@ -594,6 +597,7 @@
 1,Victor Ott
 1,Victor Martinez
 1,Veres Lajos
+1,Vento
 1,Tristan FAURE
 1,Tom Rini
 1,Tom Payne
@@ -613,7 +617,9 @@
 1,Spike Washburn
 1,Sorin Sbarnea
 1,Slide
+1,Sladyn Nunes
 1,Simon Andrews
+1,Sho Matsumoto
 1,Sergey Burkov
 1,Sereinity
 1,Sebastien Guillemot
@@ -660,6 +666,7 @@
 1,Olivier Lemasle
 1,Nolan Lawson
 1,Nick Dimiduk
+1,NextTurn
 1,NGK Sternhagen
 1,Muhammed Akbulut
 1,Milan Kyselica
@@ -702,6 +709,7 @@
 1,Kyle A. Matheny
 1,Kshithij Iyer
 1,Krzysztof Rakowski
+1,Krzysztof Knapik
 1,Kristian Rosenvold
 1,Krishan Bhasin
 1,Konstantin Bulanov
@@ -783,9 +791,11 @@
 1,Francisco Capdevila
 1,Flavio Costa
 1,Filipe Roque
+1,Felix Queiruga
 1,FLOCHLAY Sebastien
 1,Evgeny Mandrikov
 1,Eugene Baranov
+1,Esther Álvarez Feijoo
 1,Eric Weikl
 1,Eric Dalquist
 1,Emmanuel Bourg
