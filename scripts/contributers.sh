@@ -17,4 +17,10 @@ echo Debut traitement
 # Script pour l'etape d'analyse de commiters
 ./commiters.sh $CHEMIN
 
+# Script pour l'etape d'extraction de la date du derniere commit par commiteur
+./commiters_last_commit_date.sh $CHEMIN
+
+# Script pour l'etape d'extraction de la date du premiere commit par commiteur
+./commiters_first_commit_date.sh $CHEMIN
+
 echo Fin traitement. Vous pouvez analyser les donnees.
